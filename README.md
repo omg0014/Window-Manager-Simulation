@@ -19,7 +19,7 @@ LIST
 
 ## Example Input
 
-8
+8  
 OPEN 1  
 OPEN 2  
 MINIMIZE 2  
