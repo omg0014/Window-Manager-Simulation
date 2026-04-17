@@ -20,21 +20,21 @@ LIST
 ## Example Input
 
 8
-OPEN 1
-OPEN 2
-MINIMIZE 2
-RESTORE 2
-TOP
-LIST
-CLOSE 1
-TOP
+OPEN 1  
+OPEN 2  
+MINIMIZE 2  
+RESTORE 2  
+TOP  
+LIST  
+CLOSE 1  
+TOP  
 
 
 ## Example Output
 
-2
-2 1
-2
+2  
+2 1  
+2  
 
 
 ## Output Rules
