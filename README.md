@@ -18,6 +18,7 @@ TOP
 LIST  
 
 ## Example Input
+
 8
 OPEN 1
 OPEN 2
@@ -28,10 +29,13 @@ LIST
 CLOSE 1
 TOP
 
+
 ## Example Output
+
 2
 2 1
 2
+
 
 ## Output Rules
 - Only `TOP` and `LIST` produce output
