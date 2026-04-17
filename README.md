@@ -8,7 +8,7 @@ This project simulates a window management system similar to an operating system
 - O(1) operations using OrderedDict
 
 ## Input Format
-Commands like:
+Commands like:  
 OPEN id  
 FOCUS id  
 MINIMIZE id  
